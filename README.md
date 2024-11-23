@@ -20,4 +20,4 @@ git clone https://github.com/your-username/todo-list.git
 
 
 Demo 🎥
-You can also view the live demo of the To-Do List application here: Live Demo
+You can also view the live demo of the To-Do List application here: prajnahr-rao.github.io/Todo_list/
