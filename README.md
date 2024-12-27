@@ -1,6 +1,6 @@
 To-Do List Application 📝
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows you to manage your daily tasks efficiently by adding, editing, deleting, and marking tasks as complete or pending.
-Features ✨
+
 Add Tasks: Add new tasks to your to-do list. ➕
 Edit Tasks: Edit the details of any task you have added. ✏️
 Delete Tasks: Remove tasks that are no longer needed. ❌
