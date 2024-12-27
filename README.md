@@ -9,6 +9,7 @@ View Tasks: See a list of all your tasks with their current status. 📋
 
 Technologies Used 🚀
 Frontend:
+
 HTML for structure 🏗️
 CSS for styling 🎨
 JavaScript for functionality ⚙️
